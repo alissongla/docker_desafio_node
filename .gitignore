@@ -1,0 +1,4 @@
+/mysql
+node/node_modules
+node/.docker
+package-lock.json
